@@ -1,0 +1,22 @@
+{
+  "name": "chadnator",
+  "version": "1.0.0",
+  "description": "Makes everything more chad!",
+  "main": "Chadnator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrCoffeeOri/Chadnator.git"
+  },
+  "keywords": [
+    "Chad"
+  ],
+  "author": "Renan (MrCoffeeOri)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrCoffeeOri/Chadnator/issues"
+  },
+  "homepage": "https://github.com/MrCoffeeOri/Chadnator#readme"
+}
